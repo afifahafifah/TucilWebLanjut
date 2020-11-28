@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url('/img/makanan.jpg');
+   background-size: cover;
+}
+
+.album-card{
+    height: 500px;
+    width: 500px
+    
+    ;
+   
+}
